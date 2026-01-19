@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 💻 Passionate **Full Stack Developer**
 - 🌱 Love building scalable web applications
-- ⚙️ Comfortable with **Backend, Frontend & DevOps**
+- ⚙️ Experienced with **Frontend, Backend & DevOps**
 - 🐧 Linux enthusiast & open-source lover
 
 ---
@@ -35,11 +35,11 @@
 
 ---
 
-### 🔙 Backend & Frameworks
+### 🔙 Backend & Frameworks (Dark-Mode Safe)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
 </p>
 
